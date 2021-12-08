@@ -1,0 +1,14 @@
+.main{
+    width: 90%;
+    
+}
+.card{
+height: 77px;
+float: left;
+margin: 0.1%;
+text-align: center;
+padding-top: 10px;
+}
+p{
+    margin: 0;
+}
